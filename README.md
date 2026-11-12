@@ -20,7 +20,7 @@
 ```
 ## Python Install Managerの導入
 ```
-winget install 9NQ7512CXL7T
+> winget install 9NQ7512CXL7T
 ```
 ## Pythonの導入(3.8.10)
 ```
